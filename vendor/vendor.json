@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "fBI4BU9UYtueDY7Kl12bNEs7fDM=",
+			"path": "github.com/segmentio/go-camelcase",
+			"revision": "7085f1e3c734f696a4cd28568c33abae3100126f",
+			"revisionTime": "2016-07-26T19:29:23Z"
+		},
+		{
+			"checksumSHA1": "MGk7cSnHqiL5soaovzgcJaNH3fc=",
+			"path": "gopkg.in/yaml.v1",
+			"revision": "9f9df34309c04878acc86042b16630b0f696e1de",
+			"revisionTime": "2014-09-24T16:16:07Z"
+		}
+	],
+	"rootPath": "github.com/shutej/go2ts"
+}
